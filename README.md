@@ -12,6 +12,8 @@ Example latitude and longitude coordinates (39.7456,-97.0892).
 
 From the terminal, run the program:
 
+```make install```
+
 ```make run```
 
 From the terminal, stop the program:
